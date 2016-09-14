@@ -50,6 +50,10 @@ p {
 	padding: 5px;
 }
 
+.title-region:hover {
+	cursor: pointer;
+}
+
 .content-region {
 	clear: right;
 	padding: 10px;
