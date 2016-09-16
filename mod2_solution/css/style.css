@@ -48,6 +48,8 @@ p {
 	width: 150px;
 	text-align: center;
 	padding: 5px;
+	border-top: none;
+ 	border-right: none;
 }
 
 .title-region:hover {
