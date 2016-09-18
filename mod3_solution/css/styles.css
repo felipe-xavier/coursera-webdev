@@ -1,0 +1,75 @@
+body {
+  font-size: 16px;
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  background-color: #484848;
+}
+
+#header-nav {
+	background-color: #222;
+	border: 0;
+}
+
+.navbar-brand {
+	padding: 10px 15px 15px;
+	margin: 5px 0px 15px 15px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+.navbar-brand h1 { /* Restaurant Name */
+	font-family: 'Baloo Bhaina', Helvetica, serif;
+	color: #E5C453;
+	font-size: 1.5em;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#nav-list a {
+  color: #E5C453;
+  text-align: center;
+  font-size: 1.4em;
+}
+#nav-list a:hover{
+  background: #E7E7E7;
+  color: #222;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+  margin-bottom: 20px;
+  margin-right: 30px;
+}
+
+#main-content h2 {
+	color: #E7E7E7;
+	font-size: 1.6em;
+}
+
+#main-content .block {
+	background-color: #222;
+	display: block;
+	box-shadow: 0 0 3px #fff;
+	margin: 25px 15px 25px;
+	overflow: hidden;
+
+}
+
+#section-block h3 {
+	font-family: 'Baloo Bhaina', Helvetica, serif;
+	color: #E5C453;
+}
+
+#main-content .block p { 
+	color: #fff;
+	margin: 0px;
+	padding: 20px;
+}
+
+#nav-list hr {
+	margin: 0;
+}
