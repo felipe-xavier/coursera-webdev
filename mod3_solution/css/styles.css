@@ -52,7 +52,7 @@ body {
 
 #main-content .block {
 	background-color: #222;
-	display: block;
+
 	box-shadow: 0 0 3px #fff;
 	margin: 25px 15px 25px;
 	overflow: hidden;
@@ -93,5 +93,10 @@ body {
 @media (max-width: 767px) {
 	.navbar-brand {
 		margin-top: -5px;
+	}
+
+	#main-content .block {
+		margin-left: 30px;
+		margin-right: 30px;
 	}
 }
