@@ -65,11 +65,20 @@ body {
 }
 
 #main-content .block p { 
-	color: #fff;
+	color: #B3B8BC;
 	margin: 0px;
 	padding: 20px;
 }
 
 #nav-list hr {
 	margin: 0;
+}
+
+.block p a {
+	color: #46BDDF;
+}
+
+.block p a:hover {
+	color: #656565;
+	text-decoration: none;
 }
